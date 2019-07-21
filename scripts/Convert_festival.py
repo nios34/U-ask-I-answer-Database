@@ -8,7 +8,7 @@ conn = sqlite3.connect('../SRC.sql')
 c = conn.cursor()
 
 # f = open(sys.argv[0])
-f = open('../Source_festival.txt', 'r')
+f = open('../Source/Source_festival.txt', 'r')
 f2 = open('../logs/Build-festival.log', 'w')
 
 f2.write('Build BY: %s\n' % getpass.getuser())
