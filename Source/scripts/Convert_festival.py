@@ -2,14 +2,16 @@ import sqlite3
 # import sys
 import re
 import time
+import getpass
 
-conn = sqlite3.connect('./SRC.sql')
+conn = sqlite3.connect('../SRC.sql')
 c = conn.cursor()
 
 # f = open(sys.argv[0])
-f = open('Source_festival.txt', 'r')
-f2 = open('build-festival.log', 'w')
+f = open('../Source_festival.txt', 'r')
+f2 = open('../logs/Build-festival.log', 'w')
 
+f2.write('Build BY: %s\n' % getpass.getuser())
 f2.write('Build time: %s\n' % time.strftime("%a %b %d %H:%M:%S %Y", time.localtime()))
 f2.write('Convert from: %s\n' % 'Source_festival.txt')
 f2.write('Convert into: %s\n' % 'Festival')
