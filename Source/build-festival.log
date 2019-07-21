@@ -1,0 +1,290 @@
+Build time: Sun Jul 21 11:30:43 2019
+Convert from: Source_festival.txt
+Convert into: Festival
+Flied: Festival name, Date
+--------------------
+INSERT INTO Festival ('Festival name','Date') VALUES ('元旦', '01/01')
+INSERT INTO Festival ('Festival name','Date') VALUES ('黑人日', '01/04
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('小寒', '01/05
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('大寒', '01/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际麻风节', '01/25
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('腊八节', '腊月初八
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界湿地日', '02/02
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('立春', '02/04
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际声援南非日', '02/07
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际气象节', '02/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('小年', '腊月廿三
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('情人节', '02/14
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('除夕', '腊月三十
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('春节', '正月初一
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('雨水', '02/19
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('第三世界青年日', '02/24
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界居住条件调查日', '02/28
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际海豹日', '03/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('全国爱耳日', '03/03
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('元宵节', '正月十五
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('学雷锋日', '03/05
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('惊蛰', '03/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('三八妇女节', '03/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('植树节', '03/12
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('白色情人节', '03/14
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('消费者权益日', '03/15
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际航海日', '03/17
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界无肉日', '03/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('春分', '03/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('龙抬头', '03/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界睡眠日', '03/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界水日', '03/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界气象日', '03/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('愚人节', '04/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际儿童图书日', '04/02
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('寒食节', '四月初四
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('清明节', '04/05
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('复活节', '04/05
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界卫生日', '04/07
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界帕金森病日', '04/11
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('谷雨', '04/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界地球日', '04/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界读书日', '04/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('知识产权日', '04/26
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('全国交通安全反思日', '04/26
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界儿童日', '04/26
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际劳动节', '05/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('五四青年节', '05/04
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('立夏', '05/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('佛诞日', '四月初八
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界红十字日', '05/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界微笑日', '05/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('母亲节', '05/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际护士节', '05/12
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际家庭日', '05/15
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界电信日', '05/17
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('全国助残日', '05/17
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际博物馆日', '05/18
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('小满', '05/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('五卅运动纪念', '05/30
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界无烟日', '05/31
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('六一儿童节', '06/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界环境日', '06/05
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('芒种', '06/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('全国爱眼日', '06/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中国人口日', '06/11
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界难民日', '06/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('端午节', '五月初五
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('父亲节', '06/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('夏至', '06/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中国儿童慈善活动日', '06/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际奥林匹克日', '06/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('全国土地日', '06/25
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际禁毒日', '06/26
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界青年联欢节', '06/30
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中国共产党诞生日', '07/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('香港回归日', '07/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际体育记者日', '07/02
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际接吻日', '07/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('抗日战争胜利纪念日', '07/07
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('小暑', '07/07
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界人口日', '07/11
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('大暑', '07/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('非洲妇女日', '07/30
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('八一建军节', '08/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际电影节', '08/06
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('立秋', '08/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('日本投降日', '08/15
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('七夕节', '七月初七
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('处暑', '08/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中元节', '七月十五
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('抗日胜利纪念日', '09/03
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('白露', '09/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际扫盲日', '09/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('教师节', '09/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界清洁地球日', '09/12
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际臭氧层保护日', '09/12
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际和平日', '09/16
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('"九一八"事变纪念日', '09/18
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际爱牙日', '09/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界无车日', '09/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('秋分', '09/23
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中秋节', '八月十五
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界旅游日', '09/27
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际聋人节', '09/28
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国庆节', '10/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界动物日', '10/04
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('寒露', '10/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界邮政日', '10/09
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('辛亥革命纪念日', '10/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中国少年先锋队诞辰日', '10/13
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界标准日', '10/14
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际盲人节', '10/15
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界粮食日', '10/16
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际消除贫困日', '10/17
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('重阳节', '九月初九
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界传统医药日', '10/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('霜降', '10/24
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('联合国日', '10/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界勤俭日', '10/31
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('万圣节', '10/31
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('立冬', '11/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('中国记者日', '11/08
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界青年节', '11/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('光棍节', '11/11
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界糖尿病日', '11/14
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际大学生节', '11/17
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界问候日', '11/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('小雪', '11/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('感恩节', '11/26
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界艾滋病日', '12/01
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际残疾人日', '12/03
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('大雪', '12/07
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('"一二九"运动纪念日', '12/09
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界足球日', '12/09
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('世界人权日', '12/10
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('西安事变纪念日', '12/12
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('南京大屠杀', '12/13
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('澳门回归日', '12/20
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('国际篮球日', '12/21
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('冬至', '12/22
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('平安夜', '12/24
+')
+INSERT INTO Festival ('Festival name','Date') VALUES ('圣诞节', '12/25')
+--------------------
